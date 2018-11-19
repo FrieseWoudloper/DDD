@@ -1,8 +1,8 @@
 # Datasheet CBS
 
 Publicatie van CBS-gegevens vindt plaats via de volgende kanalen:
-* [StatLine](https://opendata.cbs.nl/#/CBS/nl/)(er is ook een [alfabetische inhoudsopgave in PDF-formaat](https://www.cbs.nl/-/media/statline/documenten/statline-inhoudsopgave-nederlands.pdf?la=nl-nl) beschikbaar)
-* [CBS Open Data Portaal](https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS)(meer informatie via [deze link](https://www.cbs.nl/nl-nl/onze-diensten/open-data/databank-cbs-statline-als-open-data))
+* [StatLine](https://opendata.cbs.nl/#/CBS/nl/) (er is ook een [alfabetische inhoudsopgave in PDF-formaat](https://www.cbs.nl/-/media/statline/documenten/statline-inhoudsopgave-nederlands.pdf?la=nl-nl) beschikbaar)
+* [CBS Open Data Portaal](https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS) (meer informatie via [deze link](https://www.cbs.nl/nl-nl/onze-diensten/open-data/databank-cbs-statline-als-open-data))
 * [CBS-datasets op data.overheid.nl](https://data.overheid.nl/data/dataset?maintainer_facet=http%3A%2F%2Fstandaarden.overheid.nl%2Fowms%2Fterms%2FCentraal_Bureau_voor_de_Statistiek)
 * [CBS-datasets in het Nationaal Georegister](http://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/search?facet.q=orgName%2FCentraal%2520Bureau%2520voor%2520de%2520Statistiek)
 
@@ -19,10 +19,10 @@ Voor het inlezen van CBS-gegevens in R is het [`cbsodataR`](https://cran.r-proje
 
 Voorbeeldscripts:
 * [Inlezen van CBS energieleveringen WFS in R](../../tree/master/CBS/R/Voorbeeldcode_WFS_CBS.R)
-* [Inlezen via OData in R](../../tree/master/CBS/R/Voorbeeldcode_OData_CBS.R)
-* [Inlezen via OData in FME Desktop]()
+* [Inlezen van CBS gegevens via OData interface in R](../../tree/master/CBS/R/Voorbeeldcode_OData_CBS.R)
+* [Inlezen van CBS gegevens via OData interface in FME Desktop]()
 
-Licentie:
+Licentie:    
 In principe worden gegevens beschikbaar gesteld onder een CC-BY-SA 4.0 licentie. Verifieer in de metadata of voor een specifieke dataset afwijkende voorwaarden voor hergebruik gelden.
 
 Issues:
